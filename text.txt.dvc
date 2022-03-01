@@ -1,0 +1,4 @@
+outs:
+- md5: 9b1251948633420363a35740454303ec
+  size: 20
+  path: text.txt
