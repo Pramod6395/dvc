@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+['remote "://"']
+    url = ../home/pramod/Desktop/Notebook/DVC/cloud
+['remote "myremote"']
+    url = ../home/pramod/Desktop/Notebook/DVC/cloud
